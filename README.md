@@ -34,5 +34,5 @@ Feel free to browse through my GitHub repositories to see examples of my work, a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anzar00&layout=compact)](https://github.com/anzar00)
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=anzar00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anzar's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzar00&layout=compact&theme=buefy&hide_border=true" /|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=anzar00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anzar's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzar00&layout=compact&hide_border=true" /|
 | ------------- | ------------- |
