@@ -8,7 +8,7 @@ With several years of experience in web development, I have worked on various pr
 
 In addition to my technical skills, I am also an avid reader, writer and poet. I believe that creativity is just as important in code as it is in poetry, and I strive to bring that same level of imagination and originality to every project I work on.
 
-- 🔭 I’m currently working on building a web application for a local restaurant to manage their online orders and deliveries and building an e-comerce platform for a strtup in Srinagar. I am also working for a law firm to build it's website.
+- 🔭 I’m currently working on building a web application for a local restaurant to manage their online orders and deliveries and building an e-commerce platform for a startup in Srinagar. I am also working for a law firm to build it's website.
 
 - 🌱 I’m currently learning how to use a new JavaScript framework, Vue.js, to enhance the user experience of my web applications. I'm also learning C#, .NET and Angluar to develop my skills.
 
