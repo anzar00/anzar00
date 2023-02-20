@@ -30,6 +30,6 @@ Feel free to browse through my GitHub repositories to see examples of my work, a
 <!--
 **anzar00/anzar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anzar00&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anzar00&show_icons=true&theme=dark)](https://github.com/anzar00)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anzar00&layout=compact)](https://github.com/anzar00)
