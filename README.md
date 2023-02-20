@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2 align="center">
+My name is Anzar, I'm a Full-Stack Web Developer 💻 and a part time Poet 🖋️ !
+</h2>
+
 <!--
 **anzar00/anzar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
