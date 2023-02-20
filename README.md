@@ -33,3 +33,5 @@ Feel free to browse through my GitHub repositories to see examples of my work, a
 [![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anzar00&show_icons=true&theme=dark)](https://github.com/anzar00)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anzar00&layout=compact)](https://github.com/anzar00)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=anzar00.anzar00)](https://github.com/anzar00)
