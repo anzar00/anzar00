@@ -34,7 +34,7 @@ Please take a look at my GitHub repositories to see examples of my work, and don
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anzar00&layout=compact)](https://github.com/anzar00) -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anzar00&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anzar's github stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzar00&layout=compact&theme=dark&hide_border=true" alt="anzar00" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzar00&layout=compact&theme=dark&hide_border=true" />
 
-
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzar00&layout=compact&theme=dark&hide_border=true" alt="anzar00" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzar00&layout=compact&theme=dark&hide_border=true" />|
+| ------------- | ------------- |
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzar00&label=Profile%20views&color=0e75b6&style=flat" alt="anzar00" /> </p>
